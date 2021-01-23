@@ -1,7 +1,7 @@
 # MS211--Projetos-do-curso-
 Projetos do curso de ms211(cálulo numérico).
 
-Projeto I-Estudo e resolução de sistemas lineares e não lineares em compostos orgânicos.
+**Projeto I**-Estudo e resolução de sistemas lineares e não lineares em compostos orgânicos.
 
   Nesse trabalho vamos analisar o desempenho de um conjunto de algoritmos para a
 resolução de sistemas lineares e não lineares, as aplicações desses métodos não se limitam
@@ -11,7 +11,7 @@ para os métodos aqui apresentados na física ou na Engenharia.
 reais de equações através do refinamento, onde podemos nos aproximar o tanto quanto
 possível de um valor desejado
 
-Projeto II-Aplicação de métodos de Integração, interpolação numérica e análise de dados
+**Projeto II**-Aplicação de métodos de Integração, interpolação numérica e análise de dados
 
 Diferente do método dos mínimos quadrados, cujo o único objetivo é encontrar a
 melhor função que se aproxima à verdadeira, por uma combinação de funções
